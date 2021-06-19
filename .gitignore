@@ -1,0 +1,7 @@
+*.idea
+*.pytest_cache
+*.html
+__pycache__
+assets
+venv
+chromedriver.exe
